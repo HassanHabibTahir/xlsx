@@ -1,0 +1,467 @@
+{
+    "Austria": {
+      "categories": {
+        "Paper": {
+          "identifier": "AT1",
+          "currency": "EUR",
+          "pricePerKg2024": 0.19,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "AT6",
+          "currency": "EUR",
+          "pricePerKg2024": 0.25,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Belgium": {
+      "categories": {
+        "Paper": {
+          "identifier": "BE2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "BE5",
+          "currency": "EUR",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Bulgaria": {
+      "categories": {
+        "Paper": {
+          "identifier": "BG2",
+          "currency": "BGN",
+          "pricePerKg2024": 0.25,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "BG2",
+          "currency": "BGN",
+          "pricePerKg2024": 0.25,
+          "pricePerPcs2024": 0
+        }
+      }
+    },
+    "Croatia": {
+      "categories": {
+        "Paper": {
+          "identifier": "HR4",
+          "currency": "HRK",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "HR4",
+          "currency": "HRK",
+          "pricePerKg2024": 0.26,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Cyprus": {
+      "categories": {
+        "Paper": {
+          "identifier": "CY2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "CY7",
+          "currency": "EUR",
+          "pricePerKg2024": 0.27,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Czech Republic": {
+      "categories": {
+        "Paper": {
+          "identifier": "CZ110",
+          "currency": "CZK",
+          "pricePerKg2024": 0.18,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "CZ104",
+          "currency": "CZK",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Denmark": {
+      "categories": {
+        "Paper": {
+          "identifier": "DK4",
+          "currency": "DKK",
+          "pricePerKg2024": 0.21,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "DK6",
+          "currency": "DKK",
+          "pricePerKg2024": 0.24,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Estonia": {
+      "categories": {
+        "Paper": {
+          "identifier": "EE2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "EE9",
+          "currency": "EUR",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Finland": {
+      "categories": {
+        "Paper": {
+          "identifier": "FI3",
+          "currency": "EUR",
+          "pricePerKg2024": 0.19,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "FI9",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "France": {
+      "categories": {
+        "Paper": {
+          "identifier": "FR1",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "FR6",
+          "currency": "EUR",
+          "pricePerKg2024": 0.25,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Germany": {
+      "categories": {
+        "Paper": {
+          "identifier": "DE2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.21,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "DE6",
+          "currency": "EUR",
+          "pricePerKg2024": 0.24,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Greece": {
+      "categories": {
+        "Paper": {
+          "identifier": "GR1",
+          "currency": "EUR",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "GR1",
+          "currency": "EUR",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Hungary": {
+      "categories": {
+        "Paper": {
+          "identifier": "HU6",
+          "currency": "HUF",
+          "pricePerKg2024": 0.18,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "HU6",
+          "currency": "HUF",
+          "pricePerKg2024": 0.21,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Ireland": {
+      "categories": {
+        "Paper": {
+          "identifier": "IE2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.21,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "IE7",
+          "currency": "EUR",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Italy": {
+      "categories": {
+        "Paper": {
+          "identifier": "IT1",
+          "currency": "EUR",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "IT5",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Latvia": {
+      "categories": {
+        "Paper": {
+          "identifier": "LV3",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "LV3",
+          "currency": "EUR",
+          "pricePerKg2024": 0.24,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Lithuania": {
+      "categories": {
+        "Paper": {
+          "identifier": "LT2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "LT2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Luxembourg": {
+      "categories": {
+        "Paper": {
+          "identifier": "LU3",
+          "currency": "EUR",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "LU4",
+          "currency": "EUR",
+          "pricePerKg2024": 0.26,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Malta": {
+      "categories": {
+        "Paper": {
+          "identifier": "MT2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "MT2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Netherlands": {
+      "categories": {
+        "Paper": {
+          "identifier": "NL2",
+          "currency": "EUR",
+          "pricePerKg2024": 0.19,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "NL8",
+          "currency": "EUR",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Poland": {
+      "categories": {
+        "Paper": {
+          "identifier": "PL1",
+          "currency": "PLN",
+          "pricePerKg2024": 0.17,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "PL1",
+          "currency": "PLN",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0.03
+        }
+      }
+    },
+    "Portugal": {
+      "categories": {
+        "Paper": {
+          "identifier": "PT3",
+          "currency": "EUR",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "PT4",
+          "currency": "EUR",
+          "pricePerKg2024": 0.26,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Romania": {
+      "categories": {
+        "Paper": {
+          "identifier": "RO8",
+          "currency": "RON",
+          "pricePerKg2024": 0.25,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "RO8",
+          "currency": "RON",
+          "pricePerKg2024": 0.28,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Slovakia": {
+      "categories": {
+        "Paper": {
+          "identifier": "SK6",
+          "currency": "SKK",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "SK8",
+          "currency": "SKK",
+          "pricePerKg2024": 0.23,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Slovenia": {
+      "categories": {
+        "Paper": {
+          "identifier": "SL2",
+          "currency": "SIT",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "SL2",
+          "currency": "SIT",
+          "pricePerKg2024": 0.25,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Spain": {
+      "categories": {
+        "Paper": {
+          "identifier": "ES13",
+          "currency": "EUR",
+          "pricePerKg2024": 0.21,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "ES11",
+          "currency": "EUR",
+          "pricePerKg2024": 0.24,
+          "pricePerPcs2024": 0.05
+        }
+      }
+    },
+    "Sweden": {
+      "categories": {
+        "Paper": {
+          "identifier": "SE1",
+          "currency": "SEK",
+          "pricePerKg2024": 0.20,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "SE1",
+          "currency": "SEK",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "North Macedonia": {
+      "categories": {
+        "Paper": {
+          "identifier": "MK1",
+          "currency": "MKD",
+          "pricePerKg2024": 0.22,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "MK1",
+          "currency": "MKD",
+          "pricePerKg2024": 0.24,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    },
+    "Serbia": {
+      "categories": {
+        "Paper": {
+          "identifier": "RS1",
+          "currency": "RSD",
+          "pricePerKg2024": 0.19,
+          "pricePerPcs2024": 0
+        },
+        "Paper+Beverage": {
+          "identifier": "RS1",
+          "currency": "RSD",
+          "pricePerKg2024": 0.21,
+          "pricePerPcs2024": 0.04
+        }
+      }
+    }
+  }
+  
